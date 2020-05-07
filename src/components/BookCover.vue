@@ -32,11 +32,12 @@ props: {
 .book-cover{
     display: flex;
     align-items: flex-end;
+    height: 100%;
     // background-color: tomato;
 
 .spacer{
     margin-left: 2rem;
-    height: 400px;
+    height: 100%;
     width: 5px;
     background-color: rgba($color: #000000, $alpha: 0.2);
 }

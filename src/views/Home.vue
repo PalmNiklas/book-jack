@@ -45,6 +45,8 @@ export default {
  grid-template-columns: repeat(4, 1fr);
  grid-template-rows: repeat(2, 1fr);
  gap: 1rem;
+ padding-left: 5rem;
+ padding-right: 5rem;
 }
 
 footer{

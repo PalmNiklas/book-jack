@@ -17,7 +17,7 @@
           </div>
           <div>
             <p class="published"><em>Published:</em> {{localbooks[$route.params.id -1].year}}</p>
-            <p class="publisher"><em>Publisher:</em>{{localbooks[$route.params.id -1].publisher}}</p>
+            <p class="publisher"><em>Publisher:</em> {{localbooks[$route.params.id -1].publisher}}</p>
           </div>
         </article>
         <button>Oh I want to read it</button>
